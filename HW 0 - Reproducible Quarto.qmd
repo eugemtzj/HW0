@@ -8,21 +8,9 @@ editor: visual
 ```{r}
 #| echo: false
 
-# Two solutions
 a <- 1
 b <- 3
 c <- 2
-
-# One solution
-# a <- 1
-# b <- -6
-# c <- 9
-
-# No solutions
-# a <- 1
-# b <- 2
-# c <- 5
-
 ```
 
 The plot below show the curve of $f(x) = `r a`x^2 + `r b`x + `r c`$.
